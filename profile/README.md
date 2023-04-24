@@ -8,4 +8,6 @@
 
 如您对本组织下的项目感兴趣，可向本人[写邮件](mailto:cc11001100@qq.com)附上GitHub的username或者email邀请您加入组织。
 
+您可扫码加我微信备注`JSREP`拉您进入交流群：  
+![image](https://user-images.githubusercontent.com/12819457/233923963-b7665440-adf0-486d-b53e-4d6b49666d36.png)
 
